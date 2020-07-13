@@ -1,16 +1,25 @@
-### Hi there 👋
+# Lz04
 
-<!--
-**lz0408/lz0408** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Professional JavaScript Developer
+_from the **United Kingdom**_
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Description
+
+1.5+ years of experience in JavaScript Developing. I mainly develop Discord bots using the DiscordJS library and I am looking to make professional-grade discord bots for other people!
+
+## Languages
+
+**English**  - *Native/Bilingual*
+
+## Linked Accounts
+
+[![Discord Server](https://img.icons8.com/fluent/48/000000/discord-new-logo.png)](https://discord.com/invite/DeAHsPN/)
+[![GitHub](https://img.icons8.com/fluent/48/000000/github.png)](https://github.com/lz0408/)
+
+## Skills
+
+* NodeJS
+* JavaScript
+* Discord.JS
+* Discord Bot Development
