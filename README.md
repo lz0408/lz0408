@@ -1,5 +1,4 @@
-# Selling custom coded Discord bots, DM me for pricing.
-# Lz04
+# Lz04 - Selling custom coded Discord bots, DM me for pricing.
 
 Professional JavaScript Developer _from the **United Kingdom**_
 
