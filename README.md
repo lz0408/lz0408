@@ -2,7 +2,7 @@
 
 Professional JavaScript Developer _from the **United Kingdom**_
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=Lz0408&layout=compact&hide_border=true&theme=dark
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lz0408&layout=compact&hide_border=true&theme=dark">
 
 # Description
 
