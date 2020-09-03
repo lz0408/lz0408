@@ -10,8 +10,10 @@ Professional JavaScript Developer _from the **United Kingdom**_
 
 ## Coding Languages
 
-**Javascript**  - *Primary/Main Language*<br>
-**LUA**<br>
+**Javascript**  - *Primary/Main Language*
+<br>
+**Lua**
+<br>
 **HTML**
 
 ## Linked Accounts
