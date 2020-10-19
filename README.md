@@ -6,7 +6,7 @@ Professional JavaScript Developer _from the **United Kingdom**_
 
 # Description
 
-1.5+ years of experience in JavaScript Developing. I mainly develop Discord bots using the DiscordJS library and I am looking to make professional-grade discord bots for other people!
+2+ years of experience in JavaScript Developing. I mainly develop Discord bots using the DiscordJS library and I am looking to make professional-grade discord bots for other people!
 
 ## Coding Languages
 
