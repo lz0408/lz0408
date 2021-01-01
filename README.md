@@ -1,5 +1,3 @@
-# Lz04 - Selling custom coded Discord bots, DM me for pricing @ Lz04#4062 on Discord.com.
-
 Professional JavaScript Developer _from the **United Kingdom**_
 
 <img src="https://github-readme-stats.vercel.app/api?username=lz0408&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=react">
@@ -11,6 +9,7 @@ Professional JavaScript Developer _from the **United Kingdom**_
 ## Coding Languages
 
 * **Javascript**  - *Primary/Main Language*
+* **TypeScript*
 * **lua**
 * **HTML**
 * **Python**
