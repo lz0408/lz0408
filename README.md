@@ -10,7 +10,7 @@ Professional JavaScript Developer _from the **United Kingdom**_
 
 * **Javascript**  - *Primary/Main Language*
 * **TypeScript**
-* **lua**
+* **Lua**
 * **HTML**
 * **Python**
 
