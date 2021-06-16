@@ -4,10 +4,10 @@
 <!-- <br /> -->
 
 ## Stats
-![](https://komarev.com/ghpvc/?username=lz0408&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=LzzDev&color=blueviolet)
 
-![](https://github-readme-stats.vercel.app/api?username=lz0408&show_icons=true&hide=contribs,prs&theme=dark)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lz0408&layout=compact&theme=dark)
+![](https://github-readme-stats.vercel.app/api?username=LzzDev&show_icons=true&hide=contribs,prs&theme=dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=LzzDev&layout=compact&theme=dark)
 
 <!-- <br /> -->
 
@@ -17,8 +17,6 @@
 <!-- <br /> -->
 
 ## Linked Accounts
-<!-- [![](https://img.icons8.com/fluent/48/000000/discord-new-logo.png)](https://discord.com/) **Lzz...#7402** -->
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/discord.svg" /> **Lzz...#7402**
 
-<!-- [![](https://img.icons8.com/fluent/48/000000/github.png)](https://github.com/lz0408/) **Lz0408** -->
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/github.svg" /> **Lz0408**
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/github.svg" /> **LzzDev**
