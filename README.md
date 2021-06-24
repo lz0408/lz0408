@@ -13,6 +13,7 @@ Linked Accounts:
 ---
 
 My Work:
+-
 - (Private) **[Discord-Bot-Base](https://github.com/LzzDev)** — A Discord bot base, made for building other bots on top of it
 - (Archived) **[Velocity-Bot](https://github.com/LzzDev/Velocity-Bot)** — A Discord levelling bot
 - (Archived) **[Luxury-List](https://github.com/LzzDev/Luxury-List)** — A Discord bot list (unfinished)
