@@ -6,8 +6,11 @@
 ## Stats
 ![](https://komarev.com/ghpvc/?username=LzzDev&color=blueviolet)
 
-![](https://github-readme-stats.vercel.app/api?username=LzzDev&show_icons=true&hide=contribs,prs&theme=dark)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=LzzDev&layout=compact&theme=dark)
+<!-- ![](https://github-readme-stats.vercel.app/api?username=LzzDev&show_icons=true&hide=contribs,prs&theme=dark) -->
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LzzDev&layout=compact&theme=dark) -->
+
+![](https://raw.githubusercontent.com/LzzDev/Stats/master/generated/overview.svg)
+![](https://raw.githubusercontent.com/LzzDev/Stats/master/generated/languages.svg)
 
 <!-- <br /> -->
 
