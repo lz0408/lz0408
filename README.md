@@ -18,7 +18,7 @@ My Work:
 - (Private) **[Discord-Bot-Base](https://github.com/LzzDev)** — A Discord bot base, made for building other bots on top of it
 - (Archived) **[Velocity-Bot](https://github.com/LzzDev/Velocity-Bot)** — A Discord levelling bot
 - (Archived) **[Luxury-List](https://github.com/LzzDev/Luxury-List)** — A Discord bot list (unfinished)
-- (Archived) **[LuxuryList-TS](https://github.com/LzzDev/Warband)** — A Discord bot list made in TypeScript. A TS version of **[Luxury-List](https://github.com/LzzDev/Luxury-List)** (unfinished)
+- (Archived) **[LuxuryList-TS](https://github.com/LzzDev/LuxuryList-TS)** — A Discord bot list made in TypeScript. A TS version of **[Luxury-List](https://github.com/LzzDev/Luxury-List)** (unfinished)
 - (Archived) **[Warband](https://github.com/LzzDev/Warband)** — A Discord bot that was made for a small, private server
 - (Archived) **[VelocityBot_TK](https://github.com/LzzDev/VelocityBot_TK)** — A ReactJS website made for **[Velocity-Bot](https://github.com/LzzDev/Velocity-Bot)**
 - (Archived) **[COVID-19-Bot](https://github.com/LzzDev/COVID-19-Bot)** — A Discord bot that interacts with a COVID-19 API for getting stats
